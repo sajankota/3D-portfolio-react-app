@@ -124,25 +124,18 @@ Javascript, HTML, CSS...
 
 ## Installation
 
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
-
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/sajankota/3D-portfolio-react-app.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd 3D-portfolio-react-app
 ```
 
 Install dependencies
@@ -154,7 +147,25 @@ Install dependencies
 Start the server
 
 ```bash
-  npm run start
+  npm run dev
+```
+
+Build the Project
+
+```bash
+  npm run build
+```
+
+Start the server
+
+```bash
+  npm run lint
+```
+
+Preview the production
+
+```bash
+  npm run preview
 ```
 
 ## Running Tests
@@ -163,6 +174,42 @@ To run tests, run the following command
 
 ```bash
   npm run test
+```
+
+## Development Dependencies
+
+The project uses the following development dependencies:
+
+```bash
+"@types/react": "^18.0.37"
+"@types/react-dom": "^18.0.11"
+"@vitejs/plugin-react": "^4.0.0"
+"autoprefixer": "^10.4.14"
+"eslint": "^8.38.0"
+"eslint-plugin-react": "^7.32.2"
+"eslint-plugin-react-hooks": "^4.6.0"
+"eslint-plugin-react-refresh": "^0.3.4"
+"postcss": "^8.4.24"
+"tailwindcss": "^3.3.2"
+"vite": "^4.3.9"
+```
+
+## Dependencies
+
+The project has the following dependencies:
+
+```bash
+"@emailjs/browser": "^3.11.0"
+"@react-three/drei": "^9.76.0"
+"@react-three/fiber": "^8.13.3"
+"framer-motion": "^10.12.16"
+"maath": "^0.6.0"
+"react": "^18.2.0"
+"react-dom": "^18.2.0"
+"react-router-dom": "^6.13.0"
+"react-tilt": "^1.0.2"
+"react-vertical-timeline-component": "^3.6.0"
+"three": "^0.153.0"
 ```
 
 ## Usage/Examples
