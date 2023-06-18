@@ -66,7 +66,7 @@ Please adhere to this project's `code of conduct`.
 
 ## Demo
 
-Insert gif or link to demo
+[Demo](https://sajankota.github.io/3D-portfolio-react-app/)
 
 ## Deployment
 
