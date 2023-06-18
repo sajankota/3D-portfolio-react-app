@@ -13,7 +13,7 @@ A brief description of what this project does and who it's for
 
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS, Three.js
+**Client:** React, Next.js, TailwindCSS, Three.js
 
 **Server:** Node, Express
 
