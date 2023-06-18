@@ -12,10 +12,10 @@ git checkout -b main
 git add -A
 git commit -m 'deploy'
 
-# if you are deploying to https://sajankota.github.io
-# git push -f git@github.com:sajankota/sajankota.github.io.git main
+# if you are deploying to https://<USERNAME>.github.io
+# git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git main
 
-# if you are deploying to https://sajankota.github.io/3D-portfolio-react-app
+# if you are deploying to https://<USERNAME>.github.io/<REPO>
 # git push -f git@github.com:sajankota/3D-portfolio-react-app.git main:gh-pages
 
 cd -
